@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/purple-green.css'; /* Material Theme */
+
+html, body { height: 100%; }
+/* Apply a background image to the entire page */
+body {
+    background-image: url('/assets/bg.jpg');
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center center; /* Center the image */
+    background-attachment: fixed; /* Optional: Fixed background so it doesn't scroll */
+    background-repeat: no-repeat; /* Prevent repeating the background image */
+    height: 100vh; /* Make sure it covers the whole screen height */
+    margin: 0; /* Remove any default margin */
+    font-family: "Roboto", "Helvetica Neue", sans-serif;
+  }
+  

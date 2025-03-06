@@ -1,0 +1,47 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .upload-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin-top: 10px;
+    /* padding: 20px; */
+    background-color: #ea00a4;
+    color : white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #8908d4;
+    color: white;
+  }
+  
+  .download-btn {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ea00a4;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .download-btn:hover {
+    background-color: #8908d4;
+    color: white;
+  }
+  
+  img {
+    margin-top: 20px;
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  

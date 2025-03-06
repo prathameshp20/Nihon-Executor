@@ -1,0 +1,36 @@
+<div class="container my-5">
+    <h1 class="text-center text-white mb-3">Image Converter</h1>
+    <h5 class="text-center text-white mt-3 mb-5">Convert your image to any desired format</h5>
+
+  
+    <!-- Image upload section -->
+    <div class="upload-section d-flex flex-column align-items-center">
+      <input type="file" class="form-control mb-3" (change)="onFileChange($event)" accept="image/*" />
+      
+      <!-- Show selected file name -->
+      <div *ngIf="imageFile">
+        <!-- <p class="text-muted">{{ imageFile.name }}</p> -->
+  
+        <!-- Dropdown for selecting the image format -->
+        <label for="format" class="form-label text-white">Select Format:</label>
+        <select [(ngModel)]="selectedFormat" id="format" class="form-select mb-3">
+          <option value="png">PNG</option>
+          <option value="jpg">JPG</option>
+          <option value="jpeg">JPEG</option>
+          <option value="gif">GIF</option>
+          <option value="bmp">BMP</option>
+        </select>
+  
+        <!-- Convert button -->
+        <button class="py-2 px-4 rounded-pill" (click)="convertImage()" [disabled]="!selectedFormat">Convert</button>
+      </div>
+    </div>
+  
+    <!-- Converted image and download button -->
+    <div *ngIf="convertedImage" class="mt-5 text-center">
+      <h3 class="text-white">Converted Image</h3>
+      <img [src]="convertedImage" alt="Converted Image" class="img-fluid rounded mb-3" />
+      <button class= "py-2 px-4 rounded-pill" (click)="downloadImage()">Download</button>
+    </div>
+  </div>
+  

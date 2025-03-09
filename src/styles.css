@@ -4,7 +4,8 @@
 html, body { height: 100%; }
 /* Apply a background image to the entire page */
 body {
-    background-image: url('/assets/bg.jpg');
+  background-color: #02022c;
+    /* background-image: url('/assets/bg.jpg'); */
     background-size: cover; /* Cover the entire viewport */
     background-position: center center; /* Center the image */
     background-attachment: fixed; /* Optional: Fixed background so it doesn't scroll */

